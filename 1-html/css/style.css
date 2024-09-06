@@ -1,0 +1,26 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid red;
+    padding: 8x;
+}
+
+/* th{
+    border: 1px solid red;
+}
+
+
+td{
+    border: 1px solid green;
+} */
+
+th{
+    background-color: skyblue;
+}
+
+/* body{
+    background-color: rgb(241, 180, 88);
+} */
